@@ -19003,5 +19003,12 @@
     "author": "Dmitry I. Sokolov",
     "description": "Render Go game diagrams from Markdown code blocks.",
     "repo": "dsokolov/goboard"
-  }
+  },
+  {
+    "id": "tag-descriptions",
+    "name": "Tag Descriptions",
+    "author": "Hugo Martins",
+    "description": "A Knowledge Management utility for Obsidian that allows the assignment of custom definitions to tags",
+    "repo": "hugommartins/obsidian-tag-descriptions"
+  },
 ]
